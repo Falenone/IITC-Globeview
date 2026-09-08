@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/version-1.0-purple">
   <img src="https://img.shields.io/badge/IITC-plugin-pink">
   <img src="https://img.shields.io/badge/Falenone's%20AI%20Slop-pink">
-  <a href="raw.githubusercontent.com/Falenone/IITC-Globeview/main/globe-view.user.js">
+  <a href="https://raw.githubusercontent.com/Falenone/IITC-Globeview/main/globe-view.user.js">
     <img src="https://img.shields.io/badge/Click%20to%20install-brightgreen">
   </a>
 <p align="center">
@@ -57,7 +57,7 @@ It does **not** request additional Intel data. If Intel has not loaded a portal,
 0. It is NOT RECOMMENDED on mobile devices, even on a high-end phone with the Low graphics it was laggy, use it on PC ONLY! But you can try of course, regular IITC didn't load the map at all and the globe remained solid colored (Won't fix) but the globe loaded up on IITC Prime (Newer mobile IITC) BUT it remained laggy!
 1. You need [IITC-CE](https://iitc.app/).
 2. Have a userscript manager (Not tested with IITC button but feel free to try and report back)
-3. [Click here to install](raw.githubusercontent.com/Falenone/IITC-Globeview/main/globe-view.user.js) from this repository and install the script. It would appear under Map category.
+3. [Click here to install](https://raw.githubusercontent.com/Falenone/IITC-Globeview/main/globe-view.user.js) from this repository and install the script. It would appear under Map category.
 4. Reload Intel, then select **Globe** from the IITC toolbox.
 
 The first activation downloads CesiumJS. After that, Globe View can be opened with the **Globe** toolbar button; **Globe settings** opens the configuration dialog. You can also have it auto open always when opening intel when you enable it from Globe settings and check the **Open Globe automatically after refresh** checkbox
