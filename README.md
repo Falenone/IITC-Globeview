@@ -32,7 +32,7 @@ IITC shows links on a flat 2D map by default like regular intel, this IITC plugi
 </div>
 
 > [!NOTE]
-> Globe View is an unofficial visual plugin for [IITC-CE](https://iitc.app/). It is not affiliated with Niantic, Ingress, or the IITC-CE project.
+> This plugin is in whole made with ChatGPT Codex, I, Falenone wrote not a single line of code for this plugin.
 
 ## What it does
 
