@@ -8,6 +8,8 @@
 // @namespace      https://github.com/IITC-CE/ingress-intel-total-conversion
 // @homepageURL    https://github.com/Falenone/IITC-Globeview
 // @issueTracker   https://github.com/Falenone/IITC-Globeview/issues
+// @updateURL      https://raw.githubusercontent.com/Falenone/IITC-Globeview/main/globe-view.user.js
+// @downloadURL    https://raw.githubusercontent.com/Falenone/IITC-Globeview/main/globe-view.user.js
 // @match          https://intel.ingress.com/*
 // @match          https://intel-x.ingress.com/*
 // @icon           https://raw.githubusercontent.com/Falenone/IITC-Globeview/b3f346f0b708a24e6a905325523dc4ef9dcbf093/assets/globeicon.svg
