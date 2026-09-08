@@ -66,7 +66,7 @@ The first activation downloads CesiumJS. After that, Globe View can be opened wi
 - Drag to rotate and pan around Earth; use the mouse wheel to zoom.
 - Hold down **CTRL** button to orbit around the current area (Graphical glitches may occur as it's not a full 3D game) But you can get nice mild angles of your links and fields if you want to screenshot them!
 - **North up** resets the camera after orbiting using **CTRL** button.
-- **Return to map** closes the globe and returns to standard IITC and all nothing related to the globe remains unless you click on Globe from the toolbox again.
+- **Return to map** closes the globe and returns to standard IITC and nothing related to the globe remains unless you click on Globe from the toolbox again so all the plgunis should work as normal without the globe being in your way when you don't want it.
 - Clicking a globe portal works like regular IITC portal click.
 - Clicking a portal link in IITC COMMs moves the active globe to that location.
 - At IITC’s portal-detail zoom, portals, links, and fields align to their Intel positions. Overview views use lifted geometry where appropriate for readability and graphics display reasons to avoid clipping and such. It has been downsized a little so you need to zoom in a little more to get it to show All links, Portals etc to remain snappy and not lag with thousands upon thousands of fields and portals. It can work well as your everyday glance at the map view but do not use this for mission critical OPs, I am not responsible for "Oh shit this link wasn't actually blocking our lane even though the globe showed it was and now we ran out of XYZ and can not do the OP" and stuff like this, it's a novelty plugin after all.
