@@ -6,7 +6,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/version-1.0-purple">
   <img src="https://img.shields.io/badge/IITC-plugin-pink">
-  <img src="https://img.shields.io/badge/Falenone's AI Slop-pink">
+  <img src="https://img.shields.io/badge/Falenone's%20AI%20Slop-pink">
+  <a href="[https://example.com](https://github.com/Falenone/IITC-Globeview/raw/refs/heads/main/globe-view.user.js)">
+  <img src="https://img.shields.io/badge/Click%20to%20install-brightgreen">
+</a>
 </p>
 <p align="center">
   Links and fields on IITC map but on a proper globe with fancy shaders and graphics as options!
