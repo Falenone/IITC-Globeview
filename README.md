@@ -54,7 +54,7 @@ It does **not** request additional Intel data. If Intel has not loaded a portal,
 - Diagnostics for data coverage, map focus, loaded tiles, imagery source, anti-aliasing, and FPS.
 
 ## Installation
-0: It is NOT RECOMMENDED on mobile devices, even on a high-end phone with the Low graphics it was laggy, use it on PC ONLY! But you can try of course, regular IITC didn't load the map at all and the globe remained solid colored (Won't fix) but the globe loaded up on IITC Prime (Newer mobile IITC) BUT it remained laggy!
+0. It is NOT RECOMMENDED on mobile devices, even on a high-end phone with the Low graphics it was laggy, use it on PC ONLY! But you can try of course, regular IITC didn't load the map at all and the globe remained solid colored (Won't fix) but the globe loaded up on IITC Prime (Newer mobile IITC) BUT it remained laggy!
 1. You need [IITC-CE](https://iitc.app/).
 2. Have a userscript manager (Not tested with IITC button but feel free to try and report back)
 3. [Click here to install](https://github.com/Falenone/IITC-Globeview/raw/refs/heads/main/globe-view.user.js) from this repository and install the script. It would appear under Map category.
