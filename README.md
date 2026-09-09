@@ -23,8 +23,6 @@ IITC shows links on a flat 2D map by default like regular intel, this IITC plugi
 </p>
 <div align="center">
 
-# IITC Globe View
-
 ### Explore the Intel map as a live, interactive 3D globe.
 
 [✨ Features](#features) · [📦 Installation](#installation) · [⚙️ Settings](#settings) · [📸 Screenshots](#screenshot-mode) · [⚡ Performance](#performance)
