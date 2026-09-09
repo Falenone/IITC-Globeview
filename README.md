@@ -4,7 +4,7 @@
   <img src="assets/globeviewlogo.png">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.0-purple">
+  <img src="https://img.shields.io/badge/version-1.1-purple">
   <img src="https://img.shields.io/badge/IITC-plugin-pink">
   <img src="https://img.shields.io/badge/Falenone's%20AI%20Slop-pink">
   <a href="https://raw.githubusercontent.com/Falenone/IITC-Globeview/main/globe-view.user.js">
@@ -52,7 +52,6 @@ It does **not** request additional Intel data. If Intel has not loaded a portal,
 - Diagnostics for data coverage, map focus, loaded tiles, imagery source, anti-aliasing, and FPS.
 
 ## Installation
-0. It is NOT RECOMMENDED on mobile devices, even on a high-end phone with the Low graphics it was laggy, use it on PC ONLY! But you can try of course, regular IITC didn't load the map at all and the globe remained solid colored (Won't fix) but the globe loaded up on IITC Prime (Newer mobile IITC) BUT it remained laggy!
 1. You need [IITC-CE](https://iitc.app/).
 2. Have a userscript manager (Not tested with IITC button but feel free to try and report back)
 3. [Click here to install](https://raw.githubusercontent.com/Falenone/IITC-Globeview/main/globe-view.user.js) from this repository and install the script. It would appear under Map category.
@@ -209,7 +208,7 @@ Dense areas may lag regardless depending on your graphics options and your compu
 - Globe View renders only the portals, links, and fields IITC currently has loaded and loads nothing extra, it actually loads less stuff as the zoom level stuff has been toned down a notch to keep the globe snappy- which means IITC can show briefly at the bottom right "Portals" and it instantly switches to all links and you need to keep zooming in a little more to actually see "Portals".
 - Imagery follows the compatible IITC base-map setup where possible and falls back safely when a provider cannot be reproduced by a globe imagery layer. Google map layers are currently not supported
 - WebGL support is required. If Cesium cannot load, check the Inspect element console and browser WebGL support.
-- NOT RECOMMENDED ON MOBILE! It may or may not work but it will be laggy as all hell!
+- Mobile optimizations, it will work with IITC Prime on mobile.
 
 ## Credits
 
